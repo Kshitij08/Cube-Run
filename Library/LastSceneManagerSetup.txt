@@ -1,0 +1,4 @@
+sceneSetups:
+- path: C:/Users/Kshitij/Downloads/Tap-On-Tile-master/Tap-On-Tile-master/Assets/scene.unity
+  isLoaded: 1
+  isActive: 1

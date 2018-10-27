@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "How to make a video game", "Assembly-CSharp.csproj", "{3824CDC6-1C2F-C0BC-7CB1-19DDBC84B775}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3824CDC6-1C2F-C0BC-7CB1-19DDBC84B775}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3824CDC6-1C2F-C0BC-7CB1-19DDBC84B775}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3824CDC6-1C2F-C0BC-7CB1-19DDBC84B775}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3824CDC6-1C2F-C0BC-7CB1-19DDBC84B775}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
